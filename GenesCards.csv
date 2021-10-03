@@ -1,0 +1,213 @@
+;Genes;Categorias;Familia;Inicio;Final;RNASeq;Microarray;SAGE
+0;TRNAS-GGA;na;na;Inicio;Final;na;na;na
+1;LOC102173449;na;na;32091689;32091761;na;na;na
+2;LOC102169333;na;na;32837131;32838076;na;na;na
+3;LOC108636757;na;na;33089112;33090132;na;na;na
+4;LOC102187712;na;na;33764252;33768221;na;na;na
+5;VGLL3;(Protein Coding);Vestigial Like Family Member 3;33810174;33811741;[('25', '44')];NA;0
+6;CHMP2B;(Protein Coding);Charged Multivesicular Body Protein;33882149;33934641;[('42', '44')];NA;21
+7;POU1F1;(Protein Coding);POU Class 1 Homeobox 1;34199383;34231630;[('2', '0')];NA;3
+8;HTR1F;(Protein Coding);5-Hydroxytryptamine Receptor 1F;34235896;34251973;[('6', '3')];NA;na
+9;LOC102188976;na;na;34811253;34812505;na;na;na
+10;CGGBP1;(Protein Coding);CGG Triplet Repeat Binding Protein ;34826096;34855603;[('43', '49')];NA;18
+11;ZNF654;(Protein Coding);Zinc Finger Protein 654;34857740;34864667;[('23', '20')];NA;0
+12;C1H3orf38;na;na;34864860;34953982;na;na;na
+13;LOC102190548;na;na;34960381;34968544;na;na;na
+14;SLC12A8;(Protein Coding);Solute Carrier Family 12 Member 8;34994565;34996018;[('10', '11')];NA;na
+15;LOC106502043;na;na;69289222;69431839;na;na;na
+16;ZNF148;(Protein Coding);Zinc Finger Protein 148;69413344;69418230;[('22', '26')];NA;3
+17;SNX4;(Protein Coding);Sorting Nexin 4;69442967;69586809;[('35', '38')];NA;6
+18;OSBPL11;(Protein Coding);Oxysterol Binding Protein Like 11;69656519;69708647;[('22', '27')];NA;na
+19;LMLN;(Protein Coding);Leishmanolysin Like Peptidase;69727101;69826032;[('16', '11')];NA;3
+20;RPL35A;(Protein Coding);Ribosomal Protein L35a;69881877;69933388;[('156', '260')];NA;398
+21;IQCG;(Protein Coding);IQ Motif Containing G;69937555;69941662;[('15', '29')];NA;0
+22;LRCH3;(Protein Coding);Leucine Rich Repeats And Calponin H;69941767;69990604;[('23', '28')];NA;7
+23;FYTTD1;(Protein Coding);Forty-Two-Three Domain Containing 1;69990461;70101362;[('39', '55')];NA;na
+24;RUBCN;na;na;70107479;70139011;na;na;na
+25;MUC20;(Protein Coding);Rubicon Autophagy Regulator;70150265;70202391;[('9', '14')];NA;18
+26;MUC4;(Protein Coding);Mucin 20, Cell Surface Associated;70225887;70241268;[('10', '2')];NA;na
+27;TNK2;(Protein Coding);Mucin 4, Cell Surface Associated;70248605;70298576;[('44', '27')];NA;na
+28;TFRC;(Protein Coding);Tyrosine Kinase Non Receptor 2;70353419;70394458;[('32', '44')];NA;15
+29;ZDHHC19;(Protein Coding);Transferrin Receptor;70405851;70553035;[('5', '1')];NA;0
+30;SLC51A;(Protein Coding);Zinc Finger DHHC-Type Palmitoyltran;70543190;70555784;[('9', 'No Data')];NA;na
+31;PCYT1A;(Protein Coding);Solute Carrier Family 51 Subunit Al;70563308;70580733;[('23', '50')];NA;0
+32;TCTEX1D2;na;na;70580065;70627900;na;na;na
+33;TM4SF19;(Protein Coding);Phosphate Cytidylyltransferase 1A, ;70629609;70655281;[('7', '28')];NA;0
+34;UBXN7;(Protein Coding);Transmembrane 4 L Six Family Member;70661439;70665387;[('24', '27')];NA;na
+35;LOC102173689;na;na;70674326;70732345;na;na;na
+36;LOC106501980;na;na;70692877;70693680;na;na;na
+37;RNF168;(Protein Coding);UBX Domain Protein 7;70755013;70759135;[('26', '30')];NA;6
+38;SMCO1;(Protein Coding);Ring Finger Protein 168;70765125;70782692;[('2', 'No Data')];NA;3
+39;WDR53;(Protein Coding);Single-Pass Membrane Protein With C;70784055;70790921;[('20', '28')];NA;3
+40;FBXO45;(Protein Coding);WD Repeat Domain 53;70820545;70833184;[('15', '20')];NA;6
+41;LOC102175715;na;na;70833297;70847080;na;na;na
+42;NRROS;(Protein Coding);F-Box Protein 45;70876934;70877235;[('20', 'No Data')];NA;3
+43;CEP19;(Protein Coding);Negative Regulator Of Reactive Oxyg;70890387;70916589;[('10', '10')];NA;0
+44;PIGX;(Protein Coding);Centrosomal Protein 19;70953940;70960688;[('20', '32')];NA;na
+45;PAK2;(Protein Coding);Phosphatidylinositol Glycan Anchor ;70957571;70985213;[('41', '43')];NA;na
+46;LOC108635601;na;na;70990569;71073583;na;na;na
+47;SENP5;(Protein Coding);P21 (RAC1) Activated Kinase 2;71071562;71085250;[('26', '26')];NA;9
+48;NCBP2;(Protein Coding);SUMO Specific Peptidase 5;71085339;71133963;[('44', '58')];NA;50
+49;PIGZ;(Protein Coding);Nuclear Cap Binding Protein Subunit;71133340;71140105;[('22', '24')];NA;3
+50;LOC102176365;na;na;71144173;71175164;na;na;na
+51;MELTF;na;na;71169960;71171102;na;na;na
+52;RTP2;(Protein Coding);Phosphatidylinositol Glycan Anchor ;71209817;71236775;[('83', '0')];NA;na
+53;SST;(Protein Coding);Melanotransferrin;79336540;79340104;[('7', '0')];NA;na
+54;RTP4;(Protein Coding);Receptor Transporter Protein 2;79362883;79364074;[('16', '15')];NA;3
+55;LOC102171192;na;na;79616839;79621245;na;na;na
+56;MASP1;(Protein Coding);Somatostatin;79693141;79706102;[('9', '18')];NA;0
+57;RTP1;(Protein Coding);Receptor Transporter Protein 4;79705788;79770724;[('1', '84')];NA;0
+58;LOC102179137;na;na;79780813;79784271;na;na;na
+59;ST6GAL1;(Protein Coding);MBL Associated Serine Protease 1;79793501;79794371;[('31', '32')];NA;3
+60;TRNAK-UUU;na;na;79880646;80020253;na;na;na
+61;ADIPOQ;(Protein Coding);Receptor Transporter Protein 1;80071036;80071108;[('134', '227')];NA;3
+62;RFC4;(Protein Coding);ST6 Beta-Galactoside Alpha-2,6-Sial;80092745;80105787;[('21', '27')];NA;6
+63;EIF4A2;(Protein Coding);Adiponectin, C1Q And Collagen Domai;80128438;80141956;[('114', '120')];NA;80
+64;MIR1248;(Protein Coding);Replication Factor C Subunit 4;80141693;80148253;[('No Data', 'No Data')];NA;na
+65;KNG1;(Protein Coding);Eukaryotic Translation Initiation F;80144820;80144924;[('1', '69')];NA;0
+66;HRG;(RNA Gene);MicroRNA 1248;80175447;80201003;[('1', '18')];NA;0
+67;FETUB;(Protein Coding);Kininogen 1;80206861;80214843;[('2', '1')];NA;0
+68;AHSG;(Protein Coding);Histidine Rich Glycoprotein;80226559;80241470;[('2', '4')];NA;0
+69;LOC108635832;na;na;80273479;80280715;na;na;na
+70;DNAJB11;(Protein Coding);Fetuin B;80278213;80285131;[('47', '164')];NA;3
+71;TBCCD1;(Protein Coding);Alpha 2-HS Glycoprotein;80303639;80323058;[('23', '17')];NA;0
+72;CRYGS;(Protein Coding);DnaJ Heat Shock Protein Family (Hsp;80319786;80347985;[('18', '13')];NA;0
+73;DGKG;(Protein Coding);TBCC Domain Containing 1;80347993;80353625;[('9', '7')];NA;0
+74;ETV5;(Protein Coding);Crystallin Gamma S;80614152;80773626;[('24', '22')];NA;9
+75;LOC102179418;na;na;80808540;80865413;na;na;na
+76;LOC108635834;na;na;80926354;80947026;na;na;na
+77;LOC102178398;na;na;80963190;80977022;na;na;na
+78;IGF2BP2;(Protein Coding);Diacylglycerol Kinase Gamma;80977471;80982370;[('19', '13')];NA;3
+79;SENP2;(Protein Coding);ETS Variant Transcription Factor 5;81081005;81245002;[('29', '39')];NA;na
+80;POLR2H;(Protein Coding);Insulin Like Growth Factor 2 MRNA B;81240819;81293201;[('46', '50')];NA;18
+81;CLCN2;(Protein Coding);SUMO Specific Peptidase 2;82506638;82511053;[('15', '6')];NA;0
+82;LOC106502122;na;na;82511212;82526061;na;na;na
+83;FAM131A;(Protein Coding);RNA Polymerase II, I And III Subuni;82515882;82516400;[('18', '20')];NA;3
+84;EIF4G1;(Protein Coding);Chloride Voltage-Gated Channel 2;82525974;82535295;[('74', '84')];NA;103
+85;PSMD2;(Protein Coding);Family With Sequence Similarity 131;82535406;82554352;[('60', '68')];NA;18
+86;ECE2;(Protein Coding);Eukaryotic Translation Initiation F;82560802;82569668;[('6', '8')];NA;9
+87;CAMK2N2;(Protein Coding);Proteasome 26S Subunit Ubiquitin Re;82571368;82607245;[('2', '2')];NA;0
+88;ALG3;(Protein Coding);Endothelin Converting Enzyme 2;82598307;82600577;[('38', '33')];NA;3
+89;MIR1224;(Protein Coding);Calcium/Calmodulin Dependent Protei;82608065;82613537;[('1', 'No Data')];NA;na
+90;ABCF3;(Protein Coding);ALG3 Alpha-1,3- Mannosyltransferase;82614361;82614464;[('45', '39')];NA;12
+91;AP2M1;(RNA Gene);MicroRNA 1224;82642969;82651231;[('91', '110')];NA;6
+92;DVL3;(Protein Coding);ATP Binding Cassette Subfamily F Me;82653120;82662185;[('54', '33')];NA;0
+93;EIF2B5;(Protein Coding);Adaptor Related Protein Complex 2 S;82663789;82679754;[('45', '38')];NA;6
+94;LOC102185396;na;na;82685406;82694696;na;na;na
+95;LOC102185870;na;na;82714916;82721551;na;na;na
+96;LOC102183010;na;na;82744547;82751626;na;na;na
+97;LOC108636852;na;na;82770624;82776005;na;na;na
+98;LOC102183269;na;na;82780306;82781320;na;na;na
+99;ABCC5;(Protein Coding);Dishevelled Segment Polarity Protei;82792580;82811159;[('25', '22')];NA;12
+100;LOC102183549;na;na;82810850;82893600;na;na;na
+101;PARL;(Protein Coding);Eukaryotic Translation Initiation F;82910365;82920081;[('51', '64')];NA;0
+102;MAP6D1;(Protein Coding);ATP Binding Cassette Subfamily C Me;82931563;82985019;[('10', '8')];NA;3
+103;YEATS2;(Protein Coding);Presenilin Associated Rhomboid Like;82988294;82995755;[('27', '17')];NA;3
+104;LOC102187268;na;na;82997831;83104794;na;na;na
+105;KLHL24;(Protein Coding);MAP6 Domain Containing 1;83057549;83058102;[('28', '40')];NA;3
+106;LOC108636351;na;na;83132206;83168823;na;na;na
+107;KLHL6;(Protein Coding);YEATS Domain Containing 2;83227637;83232424;[('9', '9')];NA;0
+108;LOC102188899;na;na;83232769;83289469;na;na;na
+109;MCF2L2;(Protein Coding);Kelch Like Family Member 24;83319445;83327074;[('4', '3')];NA;na
+110;LOC102189625;na;na;83333199;83613814;na;na;na
+111;LOC108635871;na;na;83445029;83452107;na;na;na
+112;B3GNT5;(Protein Coding);Kelch Like Family Member 6;83487202;83492180;[('5', '25')];NA;9
+113;LOC106501989;na;na;83504908;83522015;na;na;na
+114;LAMP3;(Protein Coding);MCF.2 Cell Line Derived Transformin;83620763;83621974;[('6', '6')];NA;0
+115;MCCC1;(Protein Coding);UDP-GlcNAc:BetaGal Beta-1,3-N-Acety;83625794;83658751;[('33', '39')];NA;9
+116;DCUN1D1;(Protein Coding);Lysosomal Associated Membrane Prote;83672472;83725774;[('19', '42')];NA;na
+117;ATP11B;(Protein Coding);Methylcrotonyl-CoA Carboxylase Subu;83751836;83782623;[('28', '28')];NA;6
+118;TRNAS-GGA;na;na;83809139;83921211;na;na;na
+119;LOC106502158;na;na;83998316;83998387;na;na;na
+120;TNIK;(Protein Coding);Defective In Cullin Neddylation 1 D;95470430;95581144;[('13', '11')];NA;na
+121;SLC2A2;(Protein Coding);ATPase Phospholipid Transporting 11;95581209;95978163;[('77', '0')];NA;0
+122;LOC102189522;na;na;96002983;96037965;na;na;na
+123;EIF5A2;(Protein Coding);TRAF2 And NCK Interacting Kinase;96059361;96082527;[('13', '17')];NA;na
+124;RPL22L1;(Protein Coding);Solute Carrier Family 2 Member 2;96089557;96111990;[('33', '64')];NA;50
+125;SLC7A14;(Protein Coding);Eukaryotic Translation Initiation F;96121289;96125042;[('2', '53')];NA;3
+126;CLDN11;(Protein Coding);Ribosomal Protein L22 Like 1;96402759;96518138;[('29', '29')];NA;6
+127;SKIL;(Protein Coding);Solute Carrier Family 7 Member 14;96537063;96551940;[('25', '30')];NA;na
+128;PRKCI;(Protein Coding);Claudin 11;96570613;96599056;[('28', '25')];NA;35
+129;PHC3;(Protein Coding);SKI Like Proto-Oncogene;96633813;96703313;[('17', '28')];NA;6
+130;LOC102179814;na;na;96736216;96809367;na;na;na
+131;GPR160;(Protein Coding);Protein Kinase C Iota;96782525;96786132;[('17', '21')];NA;0
+132;LOC108636005;na;na;96816926;96881009;na;na;na
+133;LOC102189800;na;na;96872046;96873477;na;na;na
+134;SEC62;(Protein Coding);Polyhomeotic Homolog 3;96905989;96906172;[('45', '152')];NA;na
+135;SAMD7;(Protein Coding);G Protein-Coupled Receptor 160;96913066;96946841;[('77', '0')];NA;na
+136;LRRC31;(Protein Coding);SEC62 Homolog, Preprotein Transloca;96967164;96982920;[('3', '0')];NA;12
+137;LRRIQ4;(Protein Coding);Sterile Alpha Motif Domain Containi;97036910;97064068;[('2', '2')];NA;0
+138;TRNAY-GUA;na;na;97064415;97081118;na;na;na
+139;LRRC34;(Protein Coding);Leucine Rich Repeat Containing 31;97084201;97084290;[('12', '19')];NA;na
+140;MYNN;(Protein Coding);Leucine Rich Repeats And IQ Motif C;97086225;97105001;[('22', '21')];NA;na
+141;ACTRT3;(Protein Coding);Leucine Rich Repeat Containing 34;97109423;97126962;[('10', 'No Data')];NA;3
+142;TRNAV-AAC;na;na;97126904;97135588;na;na;na
+143;LOC108636013;na;na;97128891;97128963;na;na;na
+144;LOC106502248;na;na;97218753;97222647;na;na;na
+145;SHOX2;(Protein Coding);Myoneurin;108869996;108870162;[('21', '20')];NA;0
+146;VEPH1;(Protein Coding);Actin Related Protein T3;108977758;108987010;[('8', '6')];NA;0
+147;LOC102179325;na;na;109624582;109891384;na;na;na
+148;PTX3;(Protein Coding);Short Stature Homeobox 2;109654627;109656668;[('65', '10')];NA;6
+149;LOC108636061;na;na;109705012;109711074;na;na;na
+150;CCNL1;(Protein Coding);Ventricular Zone Expressed PH Domai;110006450;110008114;[('75', '70')];NA;100
+151;LOC106502323;na;na;110007825;110021805;na;na;na
+152;LEKR1;(Protein Coding);Pentraxin 3;110105303;110109142;[('4', '2')];NA;na
+153;TIPARP;(Protein Coding);Cyclin L1;110131156;110330653;[('32', '31')];NA;27
+154;LOC102177566;na;na;110482876;110512320;na;na;na
+155;SSR3;(Protein Coding);Leucine, Glutamate And Lysine Rich ;110605285;110611613;[('54', '81')];NA;29
+156;LOC102179240;na;na;110641897;110653517;na;na;na
+157;LOC102179815;na;na;113460909;113465343;na;na;na
+158;RAP2B;(Protein Coding);TCDD Inducible Poly(ADP-Ribose) Pol;114039627;114044419;[('19', '25')];NA;na
+159;P2RY1;(Protein Coding);Signal Sequence Receptor Subunit 3;114205077;114214900;[('6', '4')];NA;na
+160;LOC106502324;na;na;114567590;114574104;na;na;na
+161;MBNL1;(Protein Coding);RAP2B, Member Of RAS Oncogene Famil;114638336;114643543;[('55', '80')];NA;9
+162;LOC102180350;na;na;114974326;115192808;na;na;na
+163;SUCNR1;(Protein Coding);Purinergic Receptor P2Y1;115334226;115335879;[('7', '18')];NA;na
+164;LOC102189434;na;na;115626920;115636639;na;na;na
+165;LOC102181165;na;na;115725079;115746451;na;na;na
+166;LOC102176168;na;na;115759698;115774070;na;na;na
+167;LOC102189713;na;na;115761181;115761777;na;na;na
+168;LOC102179183;na;na;115795806;115830521;na;na;na
+169;LOC102179464;na;na;115895606;115924433;na;na;na
+170;LOC102178896;na;na;115940485;115948547;na;na;na
+171;LOC108636081;na;na;115952522;115953478;na;na;na
+172;TFF3;(Protein Coding);Muscleblind Like Splicing Regulator;116180918;116185772;[('41', 'No Data')];NA;68
+173;TFF2;(Protein Coding);Succinate Receptor 1;142144336;142147673;[('4', 'No Data')];NA;0
+174;TFF1;(Protein Coding);Trefoil Factor 3;142195365;142198459;[('18', 'No Data')];NA;6
+175;TMPRSS3;(Protein Coding);Trefoil Factor 2;142210652;142215120;[('17', 'No Data')];NA;9
+176;UBASH3A;(Protein Coding);Trefoil Factor 1;142244254;142266328;[('5', 'No Data')];NA;0
+177;RSPH1;(Protein Coding);Transmembrane Serine Protease 3;142279670;142319559;[('10', 'No Data')];NA;0
+178;SLC37A1;(Protein Coding);Ubiquitin Associated And SH3 Domain;142343036;142357475;[('19', 'No Data')];NA;3
+179;PDE9A;(Protein Coding);Radial Spoke Head Component 1;142382950;142456016;[('24', 'No Data')];NA;0
+180;WDR4;(Protein Coding);Solute Carrier Family 37 Member 1;142514732;142621037;[('18', 'No Data')];NA;0
+181;NDUFV3;(Protein Coding);Phosphodiesterase 9A;142670674;142689333;[('31', 'No Data')];NA;3
+182;PKNOX1;(Protein Coding);WD Repeat Domain 4;142705607;142717197;[('19', 'No Data')];NA;na
+183;ADARB1;(Protein Coding);NADH:Ubiquinone Oxidoreductase Subu;142744432;142789033;[('24', '25')];NA;9
+184;POFUT2;(Protein Coding);PBX/Knotted 1 Homeobox 1;144900016;144991569;[('34', '20')];NA;9
+185;COL18A1;(Protein Coding);Adenosine Deaminase RNA Specific B1;145035446;145048712;[('68', '50')];NA;47
+186;SLC19A1;(Protein Coding);Protein O-Fucosyltransferase 2;145152446;145246309;[('15', '20')];NA;1
+187;PCBP3;(Protein Coding);Collagen Type XVIII Alpha 1 Chain;145249313;145275187;[('11', '24')];NA;0
+188;LOC102190823;na;na;145344482;145581973;na;na;na
+189;COL6A1;(Protein Coding);Solute Carrier Family 19 Member 1;145590006;145591118;[('159', '113')];NA;147
+190;COL6A2;(Protein Coding);Poly(RC) Binding Protein 3;145631195;145652325;[('165', '126')];NA;77
+191;FTCD;(Protein Coding);Collagen Type VI Alpha 1 Chain;145768042;145799845;[('5', '3')];NA;na
+192;SPATC1L;(Protein Coding);Collagen Type VI Alpha 2 Chain;145809671;145824726;[('20', 'No Data')];NA;9
+193;LSS;(Protein Coding);Formimidoyltransferase Cyclodeamina;145826815;145847568;[('49', '45')];NA;3
+194;MCM3AP;(Protein Coding);Spermatogenesis And Centriole Assoc;145851416;145883591;[('44', '41')];NA;21
+195;YBEY;(Protein Coding);Lanosterol Synthase;145893289;145937594;[('25', '24')];NA;0
+196;C1H21orf58;na;na;145937640;145945394;na;na;na
+197;PCNT;(Protein Coding);Minichromosome Maintenance Complex ;145947155;145959034;[('21', '21')];NA;3
+198;LOC108636576;na;na;145965792;146072360;na;na;na
+199;LOC102169226;na;na;146074561;146085374;na;na;na
+200;DIP2A;(Protein Coding);YbeY Metalloendoribonuclease;146077830;146078115;[('31', '25')];NA;6
+201;S100B;(Protein Coding);Pericentrin;146085595;146195343;[('56', '76')];NA;9
+202;PRMT2;(Protein Coding);Disco Interacting Protein 2 Homolog;146236243;146243445;[('42', '54')];NA;24
+203;FBXO25;(Protein Coding);S100 Calcium Binding Protein B;146282780;146307587;[('26', '46')];NA;3
+204;TDRP;(Protein Coding);Protein Arginine Methyltransferase ;146452171;146480596;[('30', 'No Data')];NA;na
+205;LOC102177758;na;na;146484584;146528594;na;na;na
+206;DAZL;(Protein Coding);F-Box Protein 25;146768806;146779619;[('1', '71')];NA;15
+207;PLCL2;(Protein Coding);Testis Development Related Protein;153477636;153498961;[('21', '21')];NA;6
+208;TBC1D5;(Protein Coding);Deleted In Azoospermia Like;153722829;153936148;[('26', '37')];NA;12
+209;TRNAW-CCA;na;na;153936559;154524620;na;na;na
+210;SATB1;(Protein Coding);Phospholipase C Like 2;154244176;154244247;[('23', '28')];NA;3
+211;KCNH8;(Protein Coding);TBC1 Domain Family Member 5;155262593;155364610;[('10', '4')];NA;0
